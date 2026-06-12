@@ -430,7 +430,9 @@ Capabilities include:
 
 <img src="images/pdf_report.png" width="90%"/>
 
+### 🎥 Live Demonstration
 
+[▶️ Watch Demo Video](outputs/demo.mp4)
 
 </div>
 
