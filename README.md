@@ -416,21 +416,21 @@ Capabilities include:
 
 <img src="images/dashboard.png" width="90%"/>
 
-*(Replace with actual dashboard UI screenshot)*
+
 <br/><br/>
 
 ### Terminal Telemetry Output
 
 <img src="images/terminal_output.png" width="90%"/>
 
-*(Replace with actual terminal execution screenshot)*
+
 <br/><br/>
 
 ### Generated PDF Report
 
 <img src="images/pdf_report.png" width="90%"/>
 
-*(Replace with actual PDF generation screenshot)*
+
 
 </div>
 
