@@ -414,7 +414,7 @@ Capabilities include:
 
 ### Operational Dashboard UI
 
-<img src="images/banner.png" width="90%"/>
+<img src="images/dashboard.png" width="90%"/>
 
 *(Replace with actual dashboard UI screenshot)*
 <br/><br/>
